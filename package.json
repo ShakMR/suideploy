@@ -1,0 +1,11 @@
+{
+  "name": "suideploy",
+  "version": "0.1.0",
+  "description": "Utility script to deploy site in a docker container to suilabs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shakmr",
+  "license": "ISC"
+}
